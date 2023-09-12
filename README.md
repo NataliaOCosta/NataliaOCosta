@@ -3,7 +3,7 @@
 - 💻 Aprencendo programar em JAVASCRIPT 
 
 
-<!---
+
  Futura programadora em andamento 🚀 
  Sempre em busca de desafios para melhorar minhas habilidades.
---->
+
