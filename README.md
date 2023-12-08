@@ -1,6 +1,6 @@
  Hi, Eu sou a Natalia Costa!
 - 📚 Estudante de Tecnologia da Informação
-- 💻 Aprencendo programar em JAVASCRIPT 
+- 💻 Aprendendo programar em JAVASCRIPT 
 
 
 
